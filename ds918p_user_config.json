@@ -8,6 +8,7 @@
         "netif_num": "2"
     },
     "synoinfo": {
+        "maxdisks": "16",
         "SataPortMap": "255",
         "DiskIdxMap": "000207",
         "maxlanport": "4"
