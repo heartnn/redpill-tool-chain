@@ -7,7 +7,10 @@
         "mac2": "109027E9908E",
         "netif_num": "2"
     },
-    "synoinfo": {},
+    "synoinfo": {
+        "SataPortMap": "255",
+        "DiskIdxMap": "000207"
+    },
     "ramdisk_copy": {},
-    "extensions": ["pocopico.r8169", "jumkey.misc"]
+    "extensions": []
 }
