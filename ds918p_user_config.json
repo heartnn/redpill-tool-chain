@@ -9,5 +9,5 @@
     },
     "synoinfo": {},
     "ramdisk_copy": {},
-    "extensions": [jumkey.acpid2, redpill-boot-wait, pocopico.r8169, jumkey.misc]
+    "extensions": ["pocopico.r8169", "jumkey.misc"]
 }
