@@ -76,7 +76,7 @@ jobs:
         run: |
           ./redpill_tool_chain.sh add https://github.com/heartnn/redpill-tool-chain/raw/master/extensions/redpill-boot-wait.json
           ./redpill_tool_chain.sh add https://github.com/heartnn/redpill-tool-chain/raw/master/extensions/redpill-acpid.json
-          ./redpill_tool_chain.sh add https://github.com/heartnn/redpill-tool-chain/raw/master/extensions/pocopico-r8169.json
+          ./redpill_tool_chain.sh add https://github.com/heartnn/redpill-tool-chain/raw/master/extensions/pocopico-r8168.json
 
       - name: 添加扩展驱动[dva3221]
         if: matrix.platform == 'dva3221'
