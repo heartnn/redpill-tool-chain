@@ -9,7 +9,8 @@
     },
     "synoinfo": {
         "SataPortMap": "255",
-        "DiskIdxMap": "000207"
+        "DiskIdxMap": "000207",
+        "maxlanport": "4"
     },
     "ramdisk_copy": {},
     "extensions": []
