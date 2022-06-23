@@ -5,12 +5,12 @@
         "sn": "1430ODN860208",
         "mac1": "109027E9908D",
         "mac2": "109027E9908E",
-        "netif_num": "2"
+        "netif_num": "2",
+        "SataPortMap": "255",
+        "DiskIdxMap": "000207"
     },
     "synoinfo": {
         "maxdisks": "16",
-        "SataPortMap": "255",
-        "DiskIdxMap": "000207",
         "maxlanport": "4"
     },
     "ramdisk_copy": {},
