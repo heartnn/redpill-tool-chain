@@ -1,0 +1,13 @@
+{
+    "extra_cmdline": {
+        "pid": "0x6025",
+        "vid": "0x0204",
+        "sn": "1430ODN860208",
+        "mac1": "109027E9908D",
+        "mac2": "109027E9908E",
+        "netif_num": "2"
+    },
+    "synoinfo": {},
+    "ramdisk_copy": {},
+    "extensions": [jumkey.acpid2, redpill-boot-wait, pocopico.r8169, jumkey.misc]
+}
